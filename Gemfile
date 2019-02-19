@@ -6,7 +6,7 @@ gem 'bundler', '~> 1.6', '>=1.16.1'
 gem 'rails', '4.2'
 
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+gem 'sqlite3', '~> 1.3.6'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
